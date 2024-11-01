@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionArtificial", "VisionArtificial\VisionArtificial.csproj", "{B296A15D-684D-4646-810E-552A49DEA7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion", "Aplicacion\Aplicacion.csproj", "{97F0CDFE-EC85-4C34-9268-9D58F9689C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B296A15D-684D-4646-810E-552A49DEA7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B296A15D-684D-4646-810E-552A49DEA7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B296A15D-684D-4646-810E-552A49DEA7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B296A15D-684D-4646-810E-552A49DEA7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F0CDFE-EC85-4C34-9268-9D58F9689C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F0CDFE-EC85-4C34-9268-9D58F9689C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F0CDFE-EC85-4C34-9268-9D58F9689C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F0CDFE-EC85-4C34-9268-9D58F9689C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1DE53D-09EF-4EE9-B172-EF610EBFE6EE}
+	EndGlobalSection
+EndGlobal
